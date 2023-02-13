@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Rename tab",
+    "version": "1.0",
+    "action": {
+        "default_title": "Click me!",
+        "default_popup": "popup.html"
+    },
+    "description": "Rename your tabs to make it easier to find what you're looking for.",
+    "permissions": [
+        "tabs"
+    ]
+}
