@@ -8,6 +8,11 @@
     },
     "description": "Rename your tabs to make it easier to find what you're looking for.",
     "permissions": [
+        "scripting",
         "tabs"
+    ],
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
     ]
 }
